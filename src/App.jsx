@@ -18,6 +18,10 @@ export function App() {
             author="Natan Martins"
             content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum velit maxime alias, perferendis amet illo reprehenderit sint saepe quaerat eveniet."
           />
+          <Post
+            author="Natan Martins"
+            content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum velit maxime alias, perferendis amet illo reprehenderit sint saepe quaerat eveniet."
+          />
         </main>
       </div>
     </div>
