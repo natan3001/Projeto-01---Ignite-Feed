@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/ignite-feed.png" width="100%">
+  <img alt="" src=".github/ignite-feed.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
